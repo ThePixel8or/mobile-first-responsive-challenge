@@ -8,3 +8,6 @@ This is a simple test using the mobile first approach to make a webpage reponsiv
 Keep the full-size width for the devices below the 992px
 3. Keep the full-size width for the devices below the 992px
 4. Remove the left and right margin for the devices below the 992px
+
+#### Live Preview
+https://thepixel8or.github.io/mobile-first-responsive-challenge/
